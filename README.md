@@ -46,6 +46,6 @@
 - Update employee roles
 
 ## Appearance
-[![Watch the video](gif\HW-12-gif.gif)
+[![til](https://github.com/CoderLeE920/HW-12-Employee-Tracker-SQL/blob/main/gif/HW-12-gif.gif?raw=true)
 
 #### Has a lot of bugs
