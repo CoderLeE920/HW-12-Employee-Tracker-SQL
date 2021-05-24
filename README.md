@@ -46,6 +46,6 @@
 - Update employee roles
 
 ## Appearance
-[![Watch the video](<iframe src="https://drive.google.com/file/d/16XyBwqO4xmp99GlOtdh6T38TqnzegNDe/preview" width="640" height="480"></iframe>)
+[![Watch the video](gif\HW-12-gif.gif)
 
 #### Has a lot of bugs
